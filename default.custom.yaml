@@ -1,0 +1,10 @@
+# Rime schema
+# encoding: utf-8
+
+patch:
+  schema_list:
+    - schema: rime_mint
+    - schema: double_pinyin_flypy
+
+  "switcher/hotkeys":
+    - "F7"
